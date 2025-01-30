@@ -23,6 +23,10 @@ Let's say Mohan is a LinkedIn influencer and he needs help in writing his future
    ```
 Copyright (C) Codebasics Inc. All rights reserved.
 
+This project is a modified version of [Codebasics' GenAI Post Generator](https://github.com/codebasics/project-genai-post-generator).  
+Licensed under the MIT License.  
+
+Modifications by: Hemanth (https://github.com/Hemanthvedantam)
 
 **Additional Terms:**
 This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
